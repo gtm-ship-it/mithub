@@ -103,7 +103,7 @@ The incentives are arranged so that **nobody wins unless everyone wins.** That's
 |---|---|---|
 | **Talent** | Time, finished projects, willingness to be corrected | Full training at zero cost, a portfolio that proves capability, introductions where there's an opening |
 | **Company** | Honest feedback on the talent, a real opportunity | Someone pre-verified against work, not against a résumé |
-| **mitHub** | The training, the mentorship, the stack, the verification | We're paid when the talent produces value — not when they enroll |
+| **MitHub** | The training, the mentorship, the stack, the verification | We're paid when the talent produces value — not when they enroll |
 
 Read the third row again, because it's the load-bearing one. **We don't get paid for enrollment.** There's no tuition to optimize, no funnel that profits from people who never finish. The only version of this where we win is the one where a real person ends up doing real work that a real company will pay for.
 
