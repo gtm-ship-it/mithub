@@ -1,6 +1,6 @@
 <div align="center">
 
-# mitHub
+# MitHub
 
 **The university in reverse.**
 
